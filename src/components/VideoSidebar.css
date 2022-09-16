@@ -8,6 +8,12 @@
  padding: 5px 20px;
  display: flex;
  flex-direction: column;
+ align-items: center;
  justify-content: center;
  font-size: 12px;
+ font-weight: bold;
+}
+
+.icons{
+    font-size: 30px;
 }

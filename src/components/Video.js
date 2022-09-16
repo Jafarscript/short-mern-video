@@ -23,7 +23,7 @@ const Video = ({
     }
   };
   return (
-    <div className="video" ref={videoRef}>
+    <div className="video">
       <video
         src={url}
         className="video__player"
